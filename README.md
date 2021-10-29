@@ -17,6 +17,21 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on spring projects
 - 🤔 I’m looking for help with nothing rn
 - 💬 Ask me about anything related to java
-- 📫 How to reach me: https://facebook.com/xbendabizadamo
 - 😄 Pronouns: Adam
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <i> 📫 How to reach me   :<br>incoming_envelope: </i>
+</p>
+<p align="center">
+   
+  <a href="https://www.linkedin.com/in/bendabizadam/" target="_blank">
+  	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:a.bendabiza@gmail.com" target="_blank">
+	<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://web.facebook.com/xbendabizadamo" target="_blank">
+  	<img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
