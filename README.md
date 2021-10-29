@@ -3,7 +3,7 @@
 
 ### My Stats
 <!--
-**BendabizAdam/BendabizAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BendabizAdam/BendabizAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BendabizAdam&show_icons=true&theme=dracula&line_height=27" alt="Aimene BAHRI's github stats"/>
