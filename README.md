@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <i> 📫 How to reach me   :<br>incoming_envelope: </i>
-</p>
+  <i> 📫 How to reach me : </i>
+</p> 
 <p align="center">
    
   <a href="https://www.linkedin.com/in/bendabizadam/" target="_blank">
