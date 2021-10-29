@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://facebook.com/xbendabizadamo
 - 😄 Pronouns: Adam
 - ⚡ Fun fact: ...
--->
