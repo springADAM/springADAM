@@ -9,9 +9,6 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BendabizAdam)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on private projects
 - 🌱 I’m currently learning Spring Framework
 - 👯 I’m looking to collaborate on spring projects
@@ -31,7 +28,7 @@ Here are some ideas to get you started:
   <a href="mailto:a.bendabiza@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://web.facebook.com/xbendabizadamo" target="_blank">
+  <a href="https://web.facebook.com/bendabizadam" target="_blank">
   	<img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
