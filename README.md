@@ -6,7 +6,7 @@
 <a href="https://github.com/BendabizAdam/BendabizAdam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BendabizAdam&hide=php&title_color=ffffff&text_color=c9cacc&bg_color=071A2C&icon_color=4194FD&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/BendabizAdam/BendabizAdam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BendabizAdam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&bg_color=071A2C&icon_color=4194FD alt="BendabizAdam's GitHub Stats" />
 </a>
 
