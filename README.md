@@ -25,12 +25,15 @@
 <p align="center">
    
   <a href="https://www.linkedin.com/in/bendabizadam/" target="_blank">
-  	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
   <a href="mailto:a.bendabiza@gmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
   <a href="https://web.facebook.com/bendabizadam" target="_blank">
-  	<img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/bendabizadam/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
 </p>
