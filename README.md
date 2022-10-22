@@ -7,7 +7,7 @@
 **BendabizAdam/BendabizAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BendabizAdam&show_icons=true&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF"&line_height=27&count_private=true" alt="BendabizAdam's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BendabizAdam&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="BendabizAdam's github stats"/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BendabizAdam)](https://github.com/anuraghazra/github-readme-stats)
 
