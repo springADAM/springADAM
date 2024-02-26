@@ -3,11 +3,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/BendabizAdam/BendabizAdam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BendabizAdam&hide=php&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" />
+<a href="https://github.com/springADAM/springADAM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=springADAM&hide=php&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" />
 </a>
-<a href="https://github.com/BendabizAdam/BendabizAdam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BendabizAdam&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&title_color=FFFFFF&text_color=FFFFFF" alt="BendabizAdam's github stats"/>
+<a href="https://github.com/springADAM/springADAM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=springADAM&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&title_color=FFFFFF&text_color=FFFFFF" alt="springADAM's github stats"/>
 </a>
 
 
