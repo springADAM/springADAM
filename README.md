@@ -12,14 +12,14 @@
 
 
 ### My Holopin Badges
-[![@BendabizAdam's Holopin board](https://holopin.io/api/user/board?user=bendabizadam)](https://holopin.io/@bendabizadam)
+[![@springADAM's Holopin board](https://holopin.io/api/user/board?user=bendabizadam)](https://holopin.io/@bendabizadam)
 
 - 🔭 I’m currently working on private projects
 - 🌱 I’m currently learning Spring Framework
 - 👯 I’m looking to collaborate on spring projects
 - 🤔 I’m looking for help with nothing rn
 - 💬 Ask me about anything related to java
-- 😄 Pronouns: Adam
+- 😄 Pronouns: MOHAMMED
 - ⚡ Fun fact: ...
 
 <p align="center">
